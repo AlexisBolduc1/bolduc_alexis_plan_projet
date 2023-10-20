@@ -31,12 +31,11 @@ Ambiance
 
 - [Musique Lofi](https://www.youtube.com/watch?v=n61ULEU7CO0)
 - [Musique Minecraft](https://www.youtube.com/watch?v=G9sdTJGe7go)
-- [Nature]()
 
 Effets Sonores
 
 - [Son gagner](https://www.youtube.com/watch?v=96YhBRqW6T4)
-- [Ramasser pièce]()
+- [Ramasser pièce](https://www.youtube.com/watch?v=IueV6nwyreM)
 
 
 ## Une carte de votre environnement virtuel 
