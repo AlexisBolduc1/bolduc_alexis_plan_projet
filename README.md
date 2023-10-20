@@ -1,13 +1,27 @@
 # Plan de projet
 
 ## Un résumé en une phrase 
-Un simulateur de parcours abstraits
+Un jeu de plateforme et d'escalade
 
 ## Une description écrite de la proposition 
 
-Le joueur commence dans une maison situé au bas du parcours
+Le joueur commence dans une maison situé au bas du parcours.
 
+L'objectif du jeu est d'atteindre la fin du parcours qui est divisé en six sections. 
 
+Les joueurs sont accueillis par une vue panoramique sur le parcours qui s'étend devant eux.
+
+Il devra grimper et se déplacer à travers le décor afin de se rendre à la fin.
+
+Il devra braver différents climats qui viendront lui rajouter une difficulté. (Nuit, neige, pluie)
+
+Durant la montée, le joueur devra rechercher des pièces qui seront cachées dans des recoins du parcours.
+
+Tout cela dans une ambiance calme et relaxante avec des bruits qui rappellent la nature.
+
+Lorsque le joueur progresse, lees niveaux deviennent de plus en plus complexe.
+
+À chaque fin d'étape, le joueur aura une vue panoramique sur le reste du parcours.
 
 ## Moodboard visuel 
 ![moodboard](./medias/moodboard.png)
@@ -17,12 +31,12 @@ Ambiance
 
 - [Musique Lofi](https://www.youtube.com/watch?v=n61ULEU7CO0)
 - [Musique Minecraft](https://www.youtube.com/watch?v=G9sdTJGe7go)
+- [Nature]()
 
 Effets Sonores
 
-- [Son perdu](https://www.youtube.com/watch?v=voL49uXJiV4)
 - [Son gagner](https://www.youtube.com/watch?v=96YhBRqW6T4)
-- [Nature]()
+- [Ramasser pièce]()
 
 
 ## Une carte de votre environnement virtuel 
@@ -32,12 +46,12 @@ Effets Sonores
 - Peut également tenir deux prises à l'aide de ses mains
 - Lorsque les deux mains sont lachés, il tombe
 - Peut se déplacer dans l'environnement
-- Peut ramasser des pièces
+- Peut ramasser des pièces cachés
 - Peut également ouvrir des chemins à l'aide de levier
 
 ### Cycle jour/nuit/Neige/Pluie
 - Jour : le décor est illuminé
-- Nuit : Des lumière éclairent le décor
+- Nuit : Des lumière éclairent le décor, le reste est plutôt sombre
 - Neige : La vue du joueur devient plus agiter par moment
 - Pluie : La vue du joueur devient plus flou par moment
 - Chaque cycle dure 10 min
