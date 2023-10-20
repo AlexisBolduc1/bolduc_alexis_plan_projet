@@ -13,7 +13,7 @@ Les joueurs sont accueillis par une vue panoramique sur le parcours qui s'étend
 
 Il devra grimper et se déplacer à travers le décor afin de se rendre à la fin.
 
-Il devra braver différents climats qui viendront lui rajouter une difficulté. (Nuit, neige, pluie)
+Il devra braver différents climats qui viendront lui rajouter une difficulté.
 
 Durant la montée, le joueur devra rechercher des pièces qui seront cachées dans des recoins du parcours.
 
@@ -49,9 +49,8 @@ Effets Sonores
 - Peut ramasser des pièces cachés
 - Peut également ouvrir des chemins à l'aide de levier
 
-### Cycle jour/nuit/Neige/Pluie
-- Jour : le décor est illuminé
-- Nuit : Des lumière éclairent le décor, le reste est plutôt sombre
-- Neige : La vue du joueur devient plus agiter par moment
-- Pluie : La vue du joueur devient plus flou par moment
-- Chaque cycle dure 10 min
+### Changement de climats
+- Ville : Des lumière éclairent le décor, le reste est plutôt sombre
+- Antartique : La vue du joueur devient plus agiter par moment
+- Sous l'eau : La vue du joueur devient plus flou par moment
+- Chaque cycle est réparti en fonction de sa section
