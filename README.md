@@ -40,6 +40,8 @@ Effets Sonores
 
 
 ## Une carte de votre environnement virtuel 
+![carte](./medias/carte.png)
+
 ## Un schéma de programmation
 ### Joueur
 - Peut prendre une prise après l'autre ce qui permet d'avancer
