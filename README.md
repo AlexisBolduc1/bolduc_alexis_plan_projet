@@ -13,7 +13,7 @@ Les joueurs sont accueillis par une vue panoramique sur le parcours qui s'étend
 
 Il devra grimper et se déplacer à travers le décor afin de se rendre à la fin.
 
-Il devra braver différents climats qui viendront lui rajouter une difficulté.
+Il devra braver différents climats et différentes énigmes qui viendront lui rajouter une difficulté.
 
 Durant la montée, le joueur devra rechercher des pièces qui seront cachées dans des recoins du parcours.
 
