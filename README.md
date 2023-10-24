@@ -19,7 +19,7 @@ Durant la montée, le joueur devra rechercher des pièces qui seront cachées da
 
 Tout cela dans une ambiance calme et relaxante avec des bruits qui rappellent la nature.
 
-Lorsque le joueur progresse, lees niveaux deviennent de plus en plus complexe.
+Lorsque le joueur progresse, les niveaux deviennent de plus en plus complexe.
 
 À chaque fin d'étape, le joueur aura une vue panoramique sur le reste du parcours.
 
