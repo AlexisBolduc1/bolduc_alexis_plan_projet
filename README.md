@@ -1,7 +1,7 @@
 # Plan de projet
 
 ## Un résumé en une phrase 
-Un jeu de plateforme et d'escalade
+Un jeu de plateforme et d'énigme
 
 ## Une description écrite de la proposition 
 
