@@ -55,6 +55,6 @@ Effets Sonores
 - Ville : Des lumière éclairent le décor, le reste est plutôt sombre
 - Désert : Le champ de vision du joueur est rétréci
 - Espace : La gravité est affecté, le joueur devient plus "léger"
-- Antartique : La vue du joueur devient plus agiter par moment
+- Antarctique : La vue du joueur devient plus agiter par moment
 - Sous l'eau : La vue du joueur devient plus flou par moment
 - Chaque cycle est réparti en fonction de sa section
